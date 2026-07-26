@@ -1,0 +1,16 @@
+{
+  "name": "awesome-fuzzy-logic",
+  "private": true,
+  "description": "A curated list of fuzzy logic theory, libraries, inference tools, neuro-fuzzy systems, applications, and learning resources.",
+  "license": "MIT",
+  "scripts": {
+    "test": "remark --frail --quiet ."
+  },
+  "devDependencies": {
+    "remark-cli": "^12.0.1",
+    "remark-frontmatter": "^5.0.0",
+    "remark-gfm": "^4.0.1",
+    "remark-preset-lint-consistent": "^6.0.0",
+    "remark-preset-lint-recommended": "^7.0.0"
+  }
+}
